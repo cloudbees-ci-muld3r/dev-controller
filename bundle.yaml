@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "cloudbees-ci-muld3r-dev-controller"
+description: "CloudBees CI configuration bundle for the cloudbees-ci-muld3r dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/cloudbees-ci-muld3r/dev-controller"
+parent: "base"
